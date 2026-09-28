@@ -33,6 +33,7 @@ Local SGD matched synchronous SGD's accuracy with about 15× less simulated time
 
 ## Other written work
 
+- [research-talks/](research-talks/): a series of five paper-review talks on distributed deep learning. Topics are hybrid data/model parallelism (DAPPLE, FlexFlow, Alpa), automatic parallelization search (AutoDDL, Aceso), heterogeneous LLM serving (Helix), network-aware device placement (NEST), and prefetching in sharded training.
 - [pipeline-parallelism-report/](pipeline-parallelism-report/): a report comparing **1F1B** and **zero-bubble** pipeline-parallel schedules.
 - [homework/](homework/): two theory assignments covering batching, floating-point formats and endianness, interconnect topologies, collective-communication libraries (MPI, Gloo, NCCL), systolic arrays, and more.
 
