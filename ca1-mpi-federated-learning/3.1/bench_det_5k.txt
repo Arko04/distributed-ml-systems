@@ -1,0 +1,3 @@
+
+The determinant is (theoretically): 1.0 * e^(12584.52)
+python bench_det_5k.py  10.51s user 1.22s system 471% cpu 2.485 total

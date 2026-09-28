@@ -1,0 +1,3 @@
+Inversion complete.
+-0.1285332231101479
+python bench_inv_5k.py  31.10s user 2.02s system 470% cpu 7.037 total
